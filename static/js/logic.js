@@ -3,7 +3,7 @@ var queryURL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_we
 
 var myMap = L.map("map", {
     center: [37.09, -95.71],
-    zoom: 2.5
+    zoom: 3.25
   }); 
 
 
